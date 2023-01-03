@@ -10,8 +10,8 @@ public class A0_trailProgram {
 		System.setProperty("webdriver.chrome.driver","E:\\Software Testing\\Velocity Class\\Automation\\appication and software instalation\\instalation\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
-		driver.get("https://www.facebook.com");
-		
+		//driver.get("https://www.facebook.com");
+		//fjj
 	}
 		
 }
